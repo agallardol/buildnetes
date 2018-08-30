@@ -1,5 +1,7 @@
 # Buildnetes
 
+[![Docker Pulls](https://img.shields.io/docker/pulls/agallardol/buildnetes.svg)](https://hub.docker.com/r/agallardol/buildnetes) [![Docker Automated build](https://img.shields.io/docker/automated/agallardol/buildnetes.svg)](https://hub.docker.com/r/agallardol/buildnetes/) [![Docker Build Status](https://img.shields.io/docker/build/agallardol/buildnetes.svg)](https://hub.docker.com/r/agallardol/buildnetes/)
+
 A docker image containing DinD, Docker-Compose, Kompose, Kubectl and the necessary dependencies for these tools.  
 
 ## Why
